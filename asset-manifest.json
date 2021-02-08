@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Birthday-Money-App/static/css/main.a7d42c25.chunk.css",
+    "main.js": "/Birthday-Money-App/static/js/main.4a33e45f.chunk.js",
+    "main.js.map": "/Birthday-Money-App/static/js/main.4a33e45f.chunk.js.map",
+    "runtime-main.js": "/Birthday-Money-App/static/js/runtime-main.0983a8da.js",
+    "runtime-main.js.map": "/Birthday-Money-App/static/js/runtime-main.0983a8da.js.map",
+    "static/js/2.52d29c19.chunk.js": "/Birthday-Money-App/static/js/2.52d29c19.chunk.js",
+    "static/js/2.52d29c19.chunk.js.map": "/Birthday-Money-App/static/js/2.52d29c19.chunk.js.map",
+    "static/js/3.9f8602b9.chunk.js": "/Birthday-Money-App/static/js/3.9f8602b9.chunk.js",
+    "static/js/3.9f8602b9.chunk.js.map": "/Birthday-Money-App/static/js/3.9f8602b9.chunk.js.map",
+    "index.html": "/Birthday-Money-App/index.html",
+    "static/css/main.a7d42c25.chunk.css.map": "/Birthday-Money-App/static/css/main.a7d42c25.chunk.css.map",
+    "static/js/2.52d29c19.chunk.js.LICENSE.txt": "/Birthday-Money-App/static/js/2.52d29c19.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0983a8da.js",
+    "static/js/2.52d29c19.chunk.js",
+    "static/css/main.a7d42c25.chunk.css",
+    "static/js/main.4a33e45f.chunk.js"
+  ]
+}
